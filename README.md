@@ -11,6 +11,7 @@ Bianca Orfei Silletta
 
 ## Github Pages
 
-[https://github.com/bianorfei/mi-portfolio.git](https://github.com/bianorfei/mi-portfolio.git)
+[https://bianorfei.github.io/mi-portfolio/](https://bianorfei.github.io/mi-portfolio/)
+
 
 *Publicado con Github Pages.*
